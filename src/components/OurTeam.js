@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { lion, john, mike, yz, asteway, mel, gedion, TG, feven } from "../assets/import";
+import { lion, john, mike, yz, asteway, mel, gedion, TG, feven, nahom , tigist} from "../assets/import";
 import Cards from "./Cards";
 import "./gradient.css";
 import Modal from "./innerComponents/Modal";
@@ -84,6 +84,22 @@ const OurTeam = () => {
         "A software engineer that is finding his feet in the world of coding. Knowledgeable in Data Structure and Algorithms",
       description:
         "Full-stack developer and a senior software engineering student passionated about anything web and mobile development related. Node.js, react js(next js), MongoDB and flutter are my on to go tools to use and develop fine edge and interactive applications.",
+    },
+    {
+      Name: "Tigist Zelalem",
+      image: tigist,
+      phrase:
+        "A software engineer that is always looking for challenges. Fascinated by the world of development.",
+      description:
+        "Full-stack developer and a senior software engineering student passionated about anything web and mobile development related. Node.js, react js(next js), MongoDB and flutter are my on to go tools to use and develop fine edge and interactive applications.",
+    },
+    {
+      Name: "Nahom xxxx",
+      image: nahom, 
+      phrase:
+        "A software engineer who is navigating the complexities of the coding world and gaining experience.",
+      description:
+        "I'm a senior software engineering student with a passion for web and mobile development. I specialize in full-stack development and frequently use tools like Node.js, React.js (Next.js), MongoDB, and Flutter to create cutting-edge and interactive applications.",
     },
   ]; 
 

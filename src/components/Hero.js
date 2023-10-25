@@ -16,7 +16,7 @@ function Hero() {
           />
         </div>
         <div className="basis-2/5 mt-[80px] md:mt-0 md:ml-10 flex flex-col items-center justify-center">
-          <p className="font-semibold text-[35px] md:text-[83px] gradient-text">
+          <p className="font-semibold text-[45px] md:text-[103px] gradient-text">
             Upsurge
           </p>
           <p className="text-[20px] md:text-[20px] mt-4 md:mt-0">

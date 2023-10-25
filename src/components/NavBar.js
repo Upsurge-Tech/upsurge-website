@@ -66,7 +66,7 @@ const NavBar = ({ isTopOfPage }) => {
               }
               onClick={() => handleLinkClick("services")}
             >
-              Our Services
+            Services
             </ScrollLink>
             <ScrollLink
               to="team"

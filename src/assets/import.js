@@ -18,6 +18,7 @@ import mel from './mel.png';
 import gedion from './gedion.jpg';
 import TG from './tg.jpg';
 import feven from './feven.jpg';
+import nahom from './nahom.jpeg';
+import tigist from './tgz.jpg';
 
-
-export { HeroImg, Logo, phone1, phone2, phone3, phone4, service1, service2, service3, team, TG, feven, background, lion, john, mike, yz, asteway, mel, gedion }
+export { HeroImg, Logo, phone1, phone2, phone3, phone4, service1, service2, service3, team, TG, feven, background, lion, john, mike, yz, asteway, mel, gedion , nahom, tigist}
