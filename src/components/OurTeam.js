@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { lion, john, mike, yz, asteway, mel, gedion, TG, feven, nahom , tigist} from "../assets/import";
+import { john, mike, yz, asteway, mel, gedion, TG, feven, nahom , tigist} from "../assets/import";
 import Cards from "./Cards";
 import "./gradient.css";
 import Modal from "./innerComponents/Modal";
